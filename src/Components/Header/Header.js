@@ -1,5 +1,7 @@
 import React from "react";
 
+import SearchBar from "../SearchBar/SearchBar";
+
 import test from "./header.module.css";
 
 const Header = () => {
